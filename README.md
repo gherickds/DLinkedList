@@ -1,7 +1,3 @@
-aaa | aaa
-----|----
-a   |a
-
 ## Identificação de complexidade de cada método utilizado.
 
 addFirst(value: T) - O(1)
