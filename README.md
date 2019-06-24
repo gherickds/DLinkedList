@@ -20,7 +20,7 @@ removeLast(): T - O(1)
 
 size() - O(1)
 
-toArray():Object[0...] - O(n)
+toArray():Object[0...*] - O(n)
 
 get(index: int):T - O(n)
 
